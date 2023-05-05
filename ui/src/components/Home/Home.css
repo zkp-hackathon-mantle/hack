@@ -1,0 +1,100 @@
+.container {
+    height: 100vh;
+}
+
+.wallet-btn {
+    display: block;
+    padding: 20px 50px;
+    color: #fff;
+    border: none;
+    border-radius: 40px;
+    font-size: 16px;
+    cursor: pointer;
+    border: 2px solid black;
+    color: black;
+    font-size: 20px;
+  }
+
+.wallet-address-btn {
+    font-size: 25px;
+    color: black;
+    border: 1px solid black;
+    border-radius: 20px;
+    padding: 10px 20px;
+    background-color: #fff;
+    text-align: center;
+    margin-top: 3%;
+}
+
+.instructions {
+    color: black;
+    text-align: left;
+    font-size: 20px;
+    box-sizing: none;
+}
+
+.staking  {
+    height: 50vh;
+    width: 90%;
+    margin: auto;
+    margin-top: 5%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.staking-instructions {
+    margin-top: 2%;
+    color: black;
+    text-align: left;
+    font-size: 20px;
+    width: 45%;
+}
+
+.staking-inputs {
+    width: 45%;
+}
+
+.staking-instructions-heading {
+    text-align: center;
+    padding-bottom: 20px;
+}
+
+.stake-input-field {
+    background: #f3f3f3;
+    border: 1px solid #e3e3e3;
+    border-radius: 10px;
+    padding: 10px 15px;
+    width: 50%;
+    margin-bottom: 20px;
+    font-size: 16px;
+    color: #333;
+    /* margin-top: 25%; */
+    height: 6vh;
+}
+
+.stake-btn {
+    display: block;
+    margin: auto;
+    padding: 10px 40px;
+    background-color: #F5C14B;
+    border-radius: 20px;
+    font-size: 20px;
+    cursor: pointer;
+    border: 1px solid black;
+    color: black;
+    font-size: 14px;
+    margin-top: 2.5%;
+}
+
+.staking-input-disc {
+    margin-top: 25%;
+    color: black;
+    font-size: 10px;
+}
+
+.nft-image {
+    display: block;
+    margin: auto;
+    border-radius: 10px;
+}
